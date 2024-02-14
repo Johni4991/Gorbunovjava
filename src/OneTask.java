@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class oneTask {
+public class OneTask {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Введи число: ");

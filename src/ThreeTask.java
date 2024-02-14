@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class threeTask {
+public class ThreeTask {
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5, 6};
         for (int number : numbers) {
